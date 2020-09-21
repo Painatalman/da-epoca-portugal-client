@@ -9,7 +9,7 @@ import store from './store'
 
 const client = new ApolloClient({
   link: createHttpLink({
-    uri: 'http://da-epoca-portugal-api.herokuapp.com/'
+    uri: 'https://da-epoca-portugal-api.herokuapp.com/'
   }),
   cache: new InMemoryCache() 
 });
