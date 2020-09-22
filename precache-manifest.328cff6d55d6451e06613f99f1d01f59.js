@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "680cc7103fcea2ace4844f5cfbecd2f2",
+    "revision": "7f866608a3d2a2a6da29f1cc714866fb",
     "url": "/da-epoca-portugal-client/index.html"
   },
   {
-    "revision": "54358f14f9408ed793c3",
+    "revision": "57b4d51dbbb28002d525",
     "url": "/da-epoca-portugal-client/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "52e6c6e4e4f0886fede5",
-    "url": "/da-epoca-portugal-client/static/js/2.8612aac5.chunk.js"
+    "revision": "560fa64a6bce06ae9784",
+    "url": "/da-epoca-portugal-client/static/js/2.821150a3.chunk.js"
   },
   {
     "revision": "da42135372d3365a7233548ad1382c4d",
-    "url": "/da-epoca-portugal-client/static/js/2.8612aac5.chunk.js.LICENSE.txt"
+    "url": "/da-epoca-portugal-client/static/js/2.821150a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54358f14f9408ed793c3",
-    "url": "/da-epoca-portugal-client/static/js/main.9435d771.chunk.js"
+    "revision": "57b4d51dbbb28002d525",
+    "url": "/da-epoca-portugal-client/static/js/main.dc45a114.chunk.js"
   },
   {
     "revision": "a7b15497f1d4407046fd",

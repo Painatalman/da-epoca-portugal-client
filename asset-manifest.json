@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/da-epoca-portugal-client/static/css/main.5f361e03.chunk.css",
-    "main.js": "/da-epoca-portugal-client/static/js/main.9435d771.chunk.js",
-    "main.js.map": "/da-epoca-portugal-client/static/js/main.9435d771.chunk.js.map",
+    "main.js": "/da-epoca-portugal-client/static/js/main.dc45a114.chunk.js",
+    "main.js.map": "/da-epoca-portugal-client/static/js/main.dc45a114.chunk.js.map",
     "runtime-main.js": "/da-epoca-portugal-client/static/js/runtime-main.c6d4d67e.js",
     "runtime-main.js.map": "/da-epoca-portugal-client/static/js/runtime-main.c6d4d67e.js.map",
-    "static/js/2.8612aac5.chunk.js": "/da-epoca-portugal-client/static/js/2.8612aac5.chunk.js",
-    "static/js/2.8612aac5.chunk.js.map": "/da-epoca-portugal-client/static/js/2.8612aac5.chunk.js.map",
+    "static/js/2.821150a3.chunk.js": "/da-epoca-portugal-client/static/js/2.821150a3.chunk.js",
+    "static/js/2.821150a3.chunk.js.map": "/da-epoca-portugal-client/static/js/2.821150a3.chunk.js.map",
     "index.html": "/da-epoca-portugal-client/index.html",
-    "precache-manifest.f3e6cb86e42d97f6bc67519d43a82c7d.js": "/da-epoca-portugal-client/precache-manifest.f3e6cb86e42d97f6bc67519d43a82c7d.js",
+    "precache-manifest.328cff6d55d6451e06613f99f1d01f59.js": "/da-epoca-portugal-client/precache-manifest.328cff6d55d6451e06613f99f1d01f59.js",
     "service-worker.js": "/da-epoca-portugal-client/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/da-epoca-portugal-client/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8612aac5.chunk.js.LICENSE.txt": "/da-epoca-portugal-client/static/js/2.8612aac5.chunk.js.LICENSE.txt"
+    "static/js/2.821150a3.chunk.js.LICENSE.txt": "/da-epoca-portugal-client/static/js/2.821150a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6d4d67e.js",
-    "static/js/2.8612aac5.chunk.js",
+    "static/js/2.821150a3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9435d771.chunk.js"
+    "static/js/main.dc45a114.chunk.js"
   ]
 }
