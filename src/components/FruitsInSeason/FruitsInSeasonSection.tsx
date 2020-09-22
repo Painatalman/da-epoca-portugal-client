@@ -29,7 +29,7 @@ const Section = styled.section`
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: ${(props:ThemeProps) => props.theme.spacing[2]};
+    grid-gap: ${(props:ThemeProps) => props.theme.spacing[3]};
     padding: 0;
   }
 
@@ -37,13 +37,10 @@ const Section = styled.section`
     text-align: center;
   }
 
-  li img {
-    max-width: 100%;
-    width: 100%;
-    border-radius: 8px;
-  }
-
   strong {
+    display: block;
+    padding-top: ${(props:ThemeProps) => props.theme.spacing[1]};
+
     text-transform: capitalize;
     font-weight: normal;
     font-size: ${(props:ThemeProps) => props.theme.fontSizes.small};
@@ -52,6 +49,22 @@ const Section = styled.section`
   h1, h2 {
     font-weight: normal;
     font-size: ${(props:ThemeProps) => props.theme.fontSizes.medium};
+  }
+`
+
+const ImageContainer = styled.div`
+  position: relative;
+  padding-bottom: 100%;
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    object-fit: cover;
   }
 `
 
@@ -64,10 +77,12 @@ const LaunchList: React.FC = () => {
       { products.map(
           (product, i) => 
               <li key={i}>
-                <img 
-                  alt="" 
-                  src={product.photo || "http://placehold.it/80/80"} 
-                />
+                <ImageContainer>
+                  <img 
+                    alt="" 
+                    src={product.photo || "http://placehold.it/80/80"} 
+                  />
+                </ImageContainer>
                 <strong>{product.name}</strong>
               </li>
         )}
