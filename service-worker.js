@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/da-epoca-portugal-client/precache-manifest.328cff6d55d6451e06613f99f1d01f59.js"
+  "/da-epoca-portugal-client/precache-manifest.c03f29138406d3bf7424064edb71f4ae.js"
 );
 
 self.addEventListener('message', (event) => {
