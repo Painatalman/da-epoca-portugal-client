@@ -29,6 +29,8 @@ export type Product = {
   photo?: Maybe<Scalars['String']>;
   type: ProductType;
   halfMonths: Array<Scalars['HalfMonth']>;
+  inEndOfSeason: Scalars['Boolean'];
+  newInSeason: Scalars['Boolean'];
 };
 
 export type Query = {
@@ -67,7 +69,7 @@ export type GetProductsInSeasonQuery = (
   { __typename?: 'Query' }
   & { getProductsInSeason: Array<(
     { __typename?: 'Product' }
-    & Pick<Product, 'name' | 'name_en' | 'type' | 'photo'>
+    & Pick<Product, 'name' | 'name_en' | 'type' | 'photo' | 'newInSeason' | 'inEndOfSeason'>
   )> }
 );
 
@@ -79,6 +81,8 @@ export const GetProductsInSeasonDocument = gql`
     name_en
     type
     photo
+    newInSeason
+    inEndOfSeason
   }
 }
     `;
