@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/da-epoca-portugal-client/static/css/main.a92bbcc6.chunk.css",
-    "main.js": "/da-epoca-portugal-client/static/js/main.d3f720fe.chunk.js",
-    "main.js.map": "/da-epoca-portugal-client/static/js/main.d3f720fe.chunk.js.map",
+    "main.js": "/da-epoca-portugal-client/static/js/main.a1c2d702.chunk.js",
+    "main.js.map": "/da-epoca-portugal-client/static/js/main.a1c2d702.chunk.js.map",
     "runtime-main.js": "/da-epoca-portugal-client/static/js/runtime-main.c6d4d67e.js",
     "runtime-main.js.map": "/da-epoca-portugal-client/static/js/runtime-main.c6d4d67e.js.map",
-    "static/js/2.8caa8fdc.chunk.js": "/da-epoca-portugal-client/static/js/2.8caa8fdc.chunk.js",
-    "static/js/2.8caa8fdc.chunk.js.map": "/da-epoca-portugal-client/static/js/2.8caa8fdc.chunk.js.map",
+    "static/js/2.48ec9919.chunk.js": "/da-epoca-portugal-client/static/js/2.48ec9919.chunk.js",
+    "static/js/2.48ec9919.chunk.js.map": "/da-epoca-portugal-client/static/js/2.48ec9919.chunk.js.map",
     "index.html": "/da-epoca-portugal-client/index.html",
-    "precache-manifest.c03f29138406d3bf7424064edb71f4ae.js": "/da-epoca-portugal-client/precache-manifest.c03f29138406d3bf7424064edb71f4ae.js",
+    "precache-manifest.d0c400cfb74afff8ce3a40ab3a7f69a1.js": "/da-epoca-portugal-client/precache-manifest.d0c400cfb74afff8ce3a40ab3a7f69a1.js",
     "service-worker.js": "/da-epoca-portugal-client/service-worker.js",
     "static/css/main.a92bbcc6.chunk.css.map": "/da-epoca-portugal-client/static/css/main.a92bbcc6.chunk.css.map",
-    "static/js/2.8caa8fdc.chunk.js.LICENSE.txt": "/da-epoca-portugal-client/static/js/2.8caa8fdc.chunk.js.LICENSE.txt"
+    "static/js/2.48ec9919.chunk.js.LICENSE.txt": "/da-epoca-portugal-client/static/js/2.48ec9919.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6d4d67e.js",
-    "static/js/2.8caa8fdc.chunk.js",
+    "static/js/2.48ec9919.chunk.js",
     "static/css/main.a92bbcc6.chunk.css",
-    "static/js/main.d3f720fe.chunk.js"
+    "static/js/main.a1c2d702.chunk.js"
   ]
 }
